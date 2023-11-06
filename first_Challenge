@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head style="background-color: orange;">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChallengeONE_PreCorso</title>
+</head>
+
+<body style="background-color: orange;">
+    <h1 style="font-family:'Courier New', Courier, monospace">Piacere, mi presento!</h1>
+    
+    <div>
+    
+        <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Piacere, mi chiamo Francesco, ho 22 anni e mentre scrivo penso che sia più difficile presentarsi che scrivere questo codice XD <span style="color: rgb(211, 29, 29);">_scherzo_</span>. Di seguito cerco di descrivermi al meglio, tramite passioni e hobby:</p>
+    
+    <ul style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
+        <li>Suono il basso</li>
+        <li>Amo, anzi adoro la Stand Up Comedy</li>
+        <li>Sono appassionato di Horror Movie e Horror Games</li>
+        <li>Di tanto in tanto mi diletto in lunghe passeggiate in montagna</li>
+    </ul>
+
+    <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Da queste passioni e hobbie si potrebbe intuire che tipo sono, ma non abbastanza forse... per questo riporto di seuito le mie ersperienze professionali e il mio percorso di studi:</p>
+
+    <table border="3" style="font-family: Verdana, Geneva, Tahoma, sans-serif; border-color: white;">
+        <tr> 
+           <th>Diploma, corsi</th>
+           <th>Esperienza lavorativa</th>
+         </tr>
+         <tr>
+           <td>Istituto Tecnico Industriale Pentasuglia, settore informatica e telecomunicazioni</td>
+           <td>Corso Responsabile Marketing e Area Social Media</td>
+         </tr>
+         <tr> 
+           <td>Addetto social media e marketing</td>
+           <td>Assistenza clienti TIM </td>
+        </tr>
+       </table>
+
+
+    <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
+        Ecco una mia foto... cheese!
+    </p>
+    <img src="https://www.facebook.com/photo/?fbid=2245159712294378&set=pob.100004011136948" style="width: 200px;" alt="Bel ragazzo"/>
+    </div>
+
+    <div>
+        <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Eventualmente vi lascio anche i miei contatti principali li dove fosse interessati a seguirmi nel mio progresso personale e professionale</p>
+    
+        <ul style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
+            <li> <a href="https://www.facebook.com/fra.andrisani">
+                <h5>VAI SU FACEBOOK</h5>
+            </a></li>
+
+            <li> <a href="https://wa.me/3278689809">
+                <h5>SCRIVIMI SU WHATSAPP</h5>
+            </a></li>
+
+            <li>Oppure mandami un mail all'indirizzo: <span style="color: red;">fra.andrisani01@gmail.com</span> </li>
+        </ul>    
+    </div>
+    
+</body>
+</html>
